@@ -379,8 +379,8 @@ learning_progress = {
 
 **شارك هذا المستودع مع أصدقائك المطورين** ⭐
 
-[![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)](https://github.com/techiediaries/python-arabic/)
-[![GitHub forks](https://img.shields.io/github/forks/username/repo?style=social)](https://github.com/techiediaries/python-arabic/)
+[![GitHub stars](https://img.shields.io/github/stars/techiediaries/python-arabic?style=social)](https://github.com/techiediaries/python-arabic/)
+[![GitHub forks](https://img.shields.io/github/forks/techiediaries/python-arabic?style=social)](https://github.com/techiediaries/python-arabic/)
 
 ---
 
