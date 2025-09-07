@@ -324,18 +324,6 @@ learning_progress = {
 
 ---
 
-## 🎖️ شهادات الإنجاز
-
-<div align="center" dir="rtl">
-
-![Certificate](https://img.shields.io/badge/شهادة-معتمدة-gold?style=for-the-badge&logo=medal)
-
-**احصل على شهادة معتمدة بعد إكمال البرنامج التدريبي**
-
-</div>
-
----
-
 ## 📢 المزيد من المصادر والكتب
 
 <div align="center" dir="rtl">
@@ -370,8 +358,8 @@ learning_progress = {
 
 **شارك هذا المستودع مع أصدقائك المطورين** ⭐
 
-[![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)](https://github.com/username/repo)
-[![GitHub forks](https://img.shields.io/github/forks/username/repo?style=social)](https://github.com/username/repo)
+[![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)](https://github.com/techiediaries/python-arabic/)
+[![GitHub forks](https://img.shields.io/github/forks/username/repo?style=social)](https://github.com/techiediaries/python-arabic/)
 
 ---
 
